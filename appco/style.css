@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F4FEFF;
+}
+
+.consectetur {
+    background-color: #F4FEFF;
+}
+
+.container1 {
+    background-color: #F4FEFF;
+}
+
+nav ul {
+    display: flex;
+    gap: 30px;
+}
+
+.baladiv {
+    width: 30%;
+    background-color: #F4FEFF;
+}
+
+.content {
+    font-size: small;
+}
+
+.content1 {
+    font-size: 50px;
+    padding-top: 15px;
+}
+
+.content2 {
+    color: #707B8E;
+    padding-top: 20px;
+}
+
+button {
+    width: 50%;
+    height: 56px;
+    border-radius: 30px;
+    color: white;
+    background-color: #F9218D;
+    border: none;
+}
+
+.button1 {
+    background-color: #F4FEFF;
+    margin-top: 40px;
+}
+
+.video {
+    width: 58px;
+    height: 58px;
+    color: white;
+    background-color: #d852e8;
+    display: inline-block;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 50%;
+    margin-left: 16px;
+}
+
+.img1 {
+    display: flex;
+    align-items: center;
+}
+
+.anadiv {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f4feff;
+}
+
+.bala {
+    width: 30%;
+}
+
+.bala img {
+    width: 100%;
+}
+
+.ana {
+    display: flex;
+}
+
+.colum {
+    font-size: 45px;
+}
+
+.colum1 {
+    margin-top: 30px;
+}
+
+.bala2 {
+    width: 50%;
+}
+
+.instrument {
+    width: 75px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 60px;
+    color: white;
+    background-color: #e78ae9;
+}
+
+.bala3 {
+    display: flex;
+}
+
+.bala4 {
+    width: 50%;
+    padding-left: 15px;
+}
+
+.inter {
+    padding-top: 8px;
+    color: #707B8E;
+}
+
+.bala5 {
+    padding-left: 15px;
+}
+
+.bala6 {
+    width: 50%;
+    padding-left: 15px;
+}
+
+.carped {
+    display: flex;
+}
+
+.ana1 {
+    margin-top: 4rem;
+}
+
+.instrument1 {
+    width: 75px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 60px;
+    color: white;
+    background-color: #e78ae9;
+}
+
+.bala7 {
+    width: 70%;
+    padding-left: 15px;
+}
+
+.instrument2 {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 60px;
+    color: white;
+    background-color: #e78ae9;
+}
+
+.contain {
+    background-image: url("https://preview.colorlib.com/theme/appco/assets/img/shape/say-shape-right.png.webp");
+}
+
+.foot {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.foot {
+    display: flex;
+}
+
+.foot1 {
+    width: 25%;
+}
+
+.url {
+    color: #707B8E;
+}
+
+.new {
+    color: #868c98;
+}
+
+.foot-bala1 {
+    margin-left: 5rem;
+}
+
+.foot-bala2 {
+    margin-left: 5rem;
+}
+
+.foot-bala3 {
+    width: 20%;
+    margin-left: 5rem;
+}
+
+.new1 {
+    color: #707B8E;
+}
+
+input {
+    height: 35px;
+    border: none;
+    background-color: #f9f9fe;
+
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+.icon1{
+    width: 50px;
+    height: 35px;
+    color: white;
+    background-color: #d852e8;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.counter{
+    width: 20%;
+}
+.counter1{
+    width: 100%;
+    background-image: url("https://codigno.com/wp-content/uploads/2023/03/En-Iyi-Yazilim-Gelistirme-Araclari-1.webp");
+}
